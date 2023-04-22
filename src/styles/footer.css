@@ -1,0 +1,29 @@
+:root {
+    --icon-color: #111;
+    --navbar-background-color: #fff
+}
+
+.darkTheme {
+    --icon-color: #fff;
+    --navbar-background-color: #060014;
+}
+
+footer {
+    background-color: var(--navbar-background-color);
+    margin-top: 300px;
+    padding: 40px 100px 40px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+footer ul {
+    display: flex;
+    flex-direction: column;
+}
+
+footer ul a {
+    font-size: 18px;
+    color: var(--icon-color);
+    text-decoration: none;
+}

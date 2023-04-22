@@ -1,0 +1,46 @@
+:root {
+    --icon-color: #111;
+    --navbar-background-color: #fff
+}
+
+.darkTheme {
+    --icon-color: #fff;
+    --navbar-background-color: #060014;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 15px;
+    background-color: var(--navbar-background-color);
+}
+
+.logo {
+    font-size: 28px;
+    margin: 13px 0;
+    cursor: pointer;
+}
+
+.links a {
+    color: var(--icon-color);
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.themeIcon {
+    color: var(--icon-color);
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 768px) {
+    nav {
+        padding: 0 5px;
+    }
+    
+    .links a {
+        color: var(--icon-color);
+        text-decoration: none;
+        margin: 0 7px;
+    }
+}

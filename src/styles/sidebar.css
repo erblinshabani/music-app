@@ -1,0 +1,29 @@
+:root {
+    --navbar-background-color: #fff;
+    --body-background-color: #f1f1f1;
+}
+
+.darkTheme {
+    --navbar-background-color: #060014;
+    --body-background-color: #0c0126;
+}
+
+.sidebar {
+    flex: 0.2;
+    background-color: var(--body-background-color);
+    height: 90vh;
+    text-align: center;
+}
+
+.sidebar-contains {
+    position: fixed;
+    background-color: var(--navbar-background-color);
+    height: 90vh;
+    width: 20%;
+    border-top: 10px solid var(--body-background-color);
+}
+@media only screen and (max-width: 768px) {
+    .sidebar {
+        display: none;
+    }
+}
