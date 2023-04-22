@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/music-app/static/css/main.6f3d9f67.css",
+    "main.js": "/music-app/static/js/main.943af147.js",
+    "static/js/787.12396cfe.chunk.js": "/music-app/static/js/787.12396cfe.chunk.js",
+    "static/media/5am.jpeg": "/music-app/static/media/5am.b0f36e1d4be750d25c9c.jpeg",
+    "static/media/dafina-zeqiri-kida.jpg": "/music-app/static/media/dafina-zeqiri-kida.f57a808dcf8c79d2aa84.jpg",
+    "static/media/elai-lale.jpeg": "/music-app/static/media/elai-lale.ef13e4491a9b69a38f2c.jpeg",
+    "static/media/shkumbin-ismaili.jpg": "/music-app/static/media/shkumbin-ismaili.83bdebe5a1f52ecd7835.jpg",
+    "static/media/kanuni-i-katilit.jpg": "/music-app/static/media/kanuni-i-katilit.f35a368fc5301c7385e9.jpg",
+    "static/media/malli.jpg": "/music-app/static/media/malli.6962762d64c9761a40cc.jpg",
+    "static/media/hip-hop.jpg": "/music-app/static/media/hip-hop.42d0cd46c9897a93d236.jpg",
+    "index.html": "/music-app/index.html",
+    "main.6f3d9f67.css.map": "/music-app/static/css/main.6f3d9f67.css.map",
+    "main.943af147.js.map": "/music-app/static/js/main.943af147.js.map",
+    "787.12396cfe.chunk.js.map": "/music-app/static/js/787.12396cfe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f3d9f67.css",
+    "static/js/main.943af147.js"
+  ]
+}
